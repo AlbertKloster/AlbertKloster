@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlbertKloster
-- 🌱 I’m currently learning Java Backend with Spring
+- 🌱 I’m currently learning Kotlin
 
 <!---
 AlbertKloster/AlbertKloster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
